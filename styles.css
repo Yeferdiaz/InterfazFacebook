@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    display: flex;
+}
+.container_pag{
+    display: inline-flex;
+    background-color: #f0f2f5;
+    padding: 30px;
+}
+.container1{
+    margin: 24px;
+}
+.container_text{
+    margin: 0px;
+}
+.title_facebook{
+    color: #1877f2;
+    font-family: Cambria;
+    font-size:45px; 
+}
+.descripcion{
+    color:#282828;
+}
+.container {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+}
+
+.login-form input {
+    width: 93%;
+    padding: 10px;
+    margin-top: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.login-form button {
+    background-color: #1877f2;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    margin-top: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 17px;
+}
+
+.login-form p {
+    margin-top: 10px;
+    color: #1877f2;
+    cursor: pointer;
+    font-size: 12px;
+}
+
+.crear_cuenta button{
+    background-color: #00ff00;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 60%;
+    margin-top: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 17px;
+ }
+ .text{
+    text-align: center;
+    font-size:13px; 
+    padding: 10px;
+    margin: 10px;
+ }
